@@ -1,0 +1,6 @@
+{
+  "appId": "com.manvirapps.lastdayatwork",
+  "appName": "Last Day At Work",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
